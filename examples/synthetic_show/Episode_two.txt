@@ -1,0 +1,105 @@
+EPISODE LOGLINE: The morning after the gala, Vanessa tries to bury the scandal — and walks straight into the boardroom where Maya is waiting.
+CONTINUITY NOTES: Original synthetic test episode. Deliberately messy formatting: no episode number, mixed timestamp styles, a block without timing, one reversed timestamp, CRLF line endings.
+
+SCENE 1
+Scene Heading: INT. VANESSA'S PENTHOUSE – MORNING
+Scene Start: 0:00:00.00
+Scene End: 0:00:41.00
+
+**CAMERA**:
+Start: (0:00:00.00) | End: (0:00:03.50)
+Close-up of a newspaper headline: GALA NURSE SLAPPED ON CAMERA.
+
+**VANESSA (Furious, Shouting):**
+Start: (0:00:00.80) | End: (0:00:03.40)
+"Who leaked this video? I want them fired by noon!"
+
+**ACTION:**
+Start: (0:00:03.50) | End: (0:00:06.00)
+Vanessa hurls her phone at the wall; it cracks.
+
+**ETHAN (Tense):**
+Start: (0:00:06.20) | End: (0:00:09.00)
+"Vanessa, the board called an emergency meeting. About us."
+
+**ACTION:**
+Ethan sets a sealed envelope on the marble counter.
+
+**VANESSA (Mocking):**
+Start: (0:00:09.40) | End: (0:00:12.6)
+"About us? Or about your little night nurse?"
+
+**ETHAN (Quiet, Afraid):**
+Start: (0:00:13.00) | End: (0:00:16.80)
+"The envelope says the new owner wants to meet you. Personally."
+
+**CAMERA**:
+Start: (0:00:16.80) | End: (0:00:20.00)
+Close-up of Vanessa tearing the envelope open, her hands trembling.
+
+**VANESSA (Shaken):**
+Start: (0:00:20.20) | End: (0:00:18.00)
+"This has to be a mistake."
+
+**MAYA (V.O.) (Cold, Certain):**
+Start: (0:00:20.50) | End: (0:00:24.00)
+"No mistake. You slapped the wrong nurse."
+
+**VANESSA (Terrified):**
+Start: (0:00:24.30) | End: (0:00:26.50)
+"That voice... it can't be."
+
+**SFX:**
+Start: (0:00:26.50) | End: (0:00:30.00)
+A sharp crash of thunder outside the penthouse windows.
+
+**ETHAN (Pleading):**
+Start: (0:00:30.20) | End: (0:00:34.00)
+"Whatever she wants, just give it to her. Please."
+
+**VANESSA (Defiant, Vicious):**
+Start: (0:00:34.20) | End: (0:00:38.00)
+"I will destroy her before she ever sits in that chair!"
+
+**CAMERA**:
+Start: (0:00:38.00) | End: (0:00:41.00)
+Push-in on Vanessa's furious face.
+
+SCENE 2
+Scene Heading: INT. BOARDROOM – DAY
+Scene Start: 0:00:41.00
+Scene End: 0:01:05.00
+
+**CAMERA**:
+Start: (0:00:41.00) | End: (0:00:45.00)
+Wide shot of a long boardroom table; a high-backed chair faces the window.
+
+**DIRECTOR HALE (Nervous):**
+Start: (0:00:41.50) | End: (0:00:44.50)
+"Madam Chairwoman, Miss Vanessa Reed is here."
+
+**ACTION:**
+Start: (0:00:45.00) | End: (0:00:48.00)
+The chair slowly turns. Maya sits in a white suit, holding Vanessa's bracelet.
+
+**MAYA (Calm, Chilling):**
+Start: (0:00:48.20) | End: (0:00:51.50)
+"You were looking for this, weren't you?"
+
+**VANESSA (Gasping):**
+Start: (0:00:51.80) | End: (0:00:53.60)
+"Where did you find that?"
+
+**MAYA (Smiling, Dangerous):**
+Start: (0:00:54.00) | End: (0:00:58.50)
+"In your maid's room. She told me everything. Sit down."
+
+**ETHAN (Stunned):**
+Start: (0:00:58.80) | End: (0:01:01.20)
+"Maya, you own the hospital?"
+
+**MAYA (Final):**
+Start: (0:01:01.50) | End: (0:01:04.80)
+"I own everything you were about to lose."
+
+--- SCRIPT END ---

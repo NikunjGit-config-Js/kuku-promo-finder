@@ -1,0 +1,34 @@
+# Kuku's screenplay pack is confidential: never commit it or outputs derived from it
+data/
+outputs/
+runs/
+raw_outputs/
+llm_cache/
+*.zip
+# secrets
+.env
+*.key
+# python
+__pycache__/
+.pytest_cache/
+*.pyc
+# Outputs quote the scripts: never commit them, whatever folder they were written to
+promos.json
+promos.csv
+top_promos.md
+episodes.csv
+rejected_candidates.json
+parse_report.json
+run_meta.json
+eval_structural.json
+compare_vs_previous.json
+review_packet.md
+review_sheet.csv
+review_key.json
+review_results.json
+llm_calls.jsonl
+*.jsonl
+# Kuku's episode files, if the pack is ever extracted inside this folder
+episode-*.txt
+.venv/
+.streamlit/secrets.toml

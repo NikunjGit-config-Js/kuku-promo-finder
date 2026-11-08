@@ -1,0 +1,5 @@
+# The promo finder itself (run.py) uses only the Python standard library (3.10+).
+# Web app (app.py):
+streamlit>=1.50
+# Tests:
+pytest>=7

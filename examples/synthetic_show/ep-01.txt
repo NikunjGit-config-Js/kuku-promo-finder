@@ -1,0 +1,158 @@
+Episode Number: Episode 1
+Episode Logline: At the hospital's charity gala, night nurse Maya is publicly accused of theft by the surgeon's fiancée — until an anonymous board member asks for her by name.
+Continuity Notes: Original synthetic test episode written for the promo-finder demo. Not Kuku content.
+
+--- SCRIPT START ---
+
+Scene 1
+scene heading: INT. HOSPITAL ATRIUM – NIGHT
+scene start: 00:00.00
+scene end: 01:12.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a glittering charity gala inside a glass hospital atrium, guests in evening wear.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:04.00)
+Maya, still in blue scrubs, carries a tray of empty glasses through the crowd.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.50)
+Medium shot of Vanessa in a red gown pointing across the room.
+
+**VANESSA (Shrill, Accusing):**
+Start: (00:04.20) | End: (00:06.80)
+"Stop her! That nurse stole my bracelet!"
+
+**SFX:**
+Start: (00:06.80) | End: (00:07.60)
+Glass shatters as Maya's tray hits the marble floor.
+
+**CAMERA:**
+Start: (00:07.50) | End: (00:11.00)
+Close-up on Maya's shocked face as the music stops.
+
+**MAYA (Stunned, Breathless):**
+Start: (00:08.00) | End: (00:10.40)
+"I have never touched anything of yours."
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:15.20)
+Two-shot of Vanessa storming toward Maya as guests part.
+
+**VANESSA (Mocking, Cruel):**
+Start: (00:11.20) | End: (00:14.80)
+"A night nurse at a ten-thousand-dollar gala? Check her pockets."
+
+**ACTION:**
+Start: (00:15.20) | End: (00:17.00)
+Vanessa slaps Maya hard across the face.
+
+**SFX:**
+Start: (00:15.30) | End: (00:15.80)
+A sharp crack of a slap echoes through the atrium.
+
+**CAMERA:**
+Start: (00:15.20) | End: (00:19.00)
+Extreme close-up of Maya's cheek reddening, her eyes filling with tears.
+
+**DR. ETHAN COLE (Cold, Dismissive):**
+Start: (00:17.20) | End: (00:19.80)
+"Maya, apologise to my fiancée and leave."
+
+**CAMERA:**
+Start: (00:19.80) | End: (00:23.50)
+Close-up on Maya turning to Ethan in disbelief.
+
+**MAYA (Hurt, Defiant):**
+Start: (00:20.00) | End: (00:23.20)
+"You know me, Ethan. I covered your night shifts for three years."
+
+**CAMERA:**
+Start: (00:23.50) | End: (00:27.00)
+Medium shot of Ethan avoiding her eyes.
+
+**DR. ETHAN COLE (Flat):**
+Start: (00:23.80) | End: (00:26.20)
+"I know what security will find."
+
+**CAMERA:**
+Start: (00:27.00) | End: (00:31.00)
+Wide shot as two security guards approach Maya.
+
+**SECURITY GUARD (Firm):**
+Start: (00:27.50) | End: (00:29.60)
+"Ma'am, come with us."
+
+**MAYA (Desperate):**
+Start: (00:29.80) | End: (00:31.00)
+"Please, I didn't do this!"
+
+**CAMERA:**
+Start: (00:31.00) | End: (00:35.00)
+Close-up on a phone screen lighting up in the hospital director's hand.
+
+**DIRECTOR HALE (Nervous, Urgent):**
+Start: (00:31.40) | End: (00:34.60)
+"Everyone stop. The board chairman is on the line."
+
+**CAMERA:**
+Start: (00:35.00) | End: (00:39.00)
+Medium shot of the director lifting the phone, pale.
+
+**DIRECTOR HALE (Shaken):**
+Start: (00:35.20) | End: (00:37.80)
+"He says no one touches the night nurse."
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:43.00)
+Close-up on Vanessa, her smile freezing.
+
+**VANESSA (Incredulous):**
+Start: (00:39.30) | End: (00:41.40)
+"Why would the chairman care about her?"
+
+**CAMERA:**
+Start: (00:43.00) | End: (00:47.50)
+Close-up on Maya wiping the blood from her lip.
+
+**MAYA (Quiet, Steely):**
+Start: (00:43.40) | End: (00:46.80)
+"Ask him who signs his cheques."
+
+**CAMERA:**
+Start: (00:47.50) | End: (00:52.00)
+Tight shot of Ethan turning slowly toward Maya.
+
+**DR. ETHAN COLE (Alarmed):**
+Start: (00:48.00) | End: (00:50.90)
+"Maya... what are you talking about?"
+
+**ACTION:**
+Start: (00:52.00) | End: (00:56.00)
+Maya removes her hospital badge and drops it into Vanessa's champagne glass.
+
+**MAYA (Calm, Final):**
+Start: (00:56.20) | End: (00:59.80)
+"Tomorrow morning, read the name on the deed of this hospital."
+
+**CAMERA:**
+Start: (00:56.00) | End: (01:01.00)
+Close-up of Vanessa staring at the badge sinking in the glass.
+
+**VANESSA (Whispering, Terrified):**
+Start: (01:01.20) | End: (01:03.50)
+"No. That's impossible."
+
+**SFX:**
+Start: (01:03.50) | End: (01:12.00)
+Ominous low string swell building to a cliffhanger sting.
+
+**CAMERA:**
+Start: (01:03.50) | End: (01:12.00)
+Slow push-in on Maya walking out through the parting crowd. Cut to black.
+
+--- SCRIPT END ---
